@@ -1,4 +1,9 @@
-### Hi there 👋
+###
+
+Hi there 👋 I'm derek. nice to meet you.
+
+"Have a nice day"
+
 
 <!--
 **derekChae/derekChae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
